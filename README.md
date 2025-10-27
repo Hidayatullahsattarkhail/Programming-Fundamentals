@@ -22,34 +22,3 @@ To practice and strengthen the fundamentals of programming, which are essential 
 BS Artificial Intelligence | PAF-IAST  
 📧 [hidayatullahsattarkhail@gmail.com](mailto:hidayatullahsattarkhail@gmail.com)  
 🌐 [Portfolio Website](https://hidayatsattarkhail.netlify.app)
-
-Programming-Fundamentals/
-│
-├── 01_Variables_And_DataTypes/
-│   └── variables.cpp
-│
-├── 02_Operators_And_Expressions/
-│   └── operators.cpp
-│
-├── 03_Control_Structures/
-│   ├── if_else.cpp
-│   ├── switch.cpp
-│   └── loops.cpp
-│
-├── 04_Functions/
-│   └── functions.cpp
-│
-├── 05_Arrays/
-│   └── arrays.cpp
-│
-├── 06_Pointers/
-│   └── pointers.cpp
-│
-├── 07_Structures/
-│   └── structures.cpp
-│
-├── 08_File_Handling/
-│   └── file_handling.cpp
-│
-└── README.md
- 
